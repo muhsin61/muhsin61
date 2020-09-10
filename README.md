@@ -1,5 +1,5 @@
 
-## <p align="center"> Jr Frontend Web Developer </p>
+## Hi I'm Jr. Frontend Web Developer 
 
 ```javascript
   const user = {
