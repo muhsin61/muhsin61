@@ -1,6 +1,8 @@
 
 ## Hi I'm Jr. Frontend Web Developer 
 
+
+### A little more about me...
 ```javascript
   const user = {
     code: ["Javascript","HTML","CSS","ES6","Python"],
