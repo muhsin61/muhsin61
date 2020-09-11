@@ -4,7 +4,7 @@
 
 ### 💻 A little more about me...
 ```javascript
-  const user = {
+const user = {
     code: ["Javascript","HTML","CSS","ES6","Python"],
     tools:["Vue","React"]
 }
