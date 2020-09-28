@@ -6,7 +6,8 @@
 ```javascript
 const user = {
     code: ["Javascript","HTML","CSS","ES6","Python"],
-    tools:["Vue","React"]
+    tools:["Vue","React"],
+    devTools:["git","vscode"]
 }
 ```
 
