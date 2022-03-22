@@ -5,9 +5,9 @@
 ### 💻 A little more about me...
 ```javascript
 const user = {
-    code: ["Javascript","HTML","CSS","ES6","Python"],
+    code: ["Javascript","HTML","CSS","ES6"],
     tools: ["Vue","React"],
-    devTools: ["Git","Vscode"]
+    devTools: ["Git"]
 }
 ```
 
