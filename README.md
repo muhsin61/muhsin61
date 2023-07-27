@@ -1,5 +1,5 @@
 
-## Hi I'm Jr. Frontend Developer 
+## Hi I'm Frontend Developer 
 
 
 ### 💻 A little more about me...
